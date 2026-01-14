@@ -1,0 +1,25 @@
+# Labels configuration for repo. Colors and descriptions provided as per request.
+- name: Sprint-0
+  color: "6f42c1"
+  description: "Work planned for initial sprint / foundation setup"
+- name: P0
+  color: "d73a4a"
+  description: "Highest priority — action required immediately"
+- name: Gate-0
+  color: "fbca04"
+  description: "Release/merge gate — must be resolved before release"
+- name: Blocked
+  color: "6a737d"
+  description: "Work blocked by external dependency"
+- name: Backend
+  color: "0366d6"
+  description: "Backend / API work"
+- name: DevOps
+  color: "0e8a16"
+  description: "CI/CD, infra, deployment"
+- name: Docs
+  color: "ffd33d"
+  description: "Documentation or specification work"
+- name: Tests
+  color: "1d76db"
+  description: "Tests / QA related work"
